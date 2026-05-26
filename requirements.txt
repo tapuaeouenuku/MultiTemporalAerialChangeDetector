@@ -1,0 +1,13 @@
+torch
+torchvision
+torch-directml
+numpy
+Pillow
+matplotlib
+scipy
+scikit-image
+pyproj
+tqdm
+requests
+opencv-python
+shapely
